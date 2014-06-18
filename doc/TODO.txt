@@ -7,3 +7,7 @@ From this room there will be 3 portals to different locations.
 They will contain survival map, epic battle map, and quest map.
 
 Az will give quests and all locations should be completed in arbitrary order.
+
+Темные времена настали в королевстве Болгария.
+Неизвестные похитили трех любимых помощников короля Аза - Лавера, Факера и Сакера.
+Сможете ли вы помочь королю и почувствовать поцелуй солнца снова?
